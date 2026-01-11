@@ -1,7 +1,7 @@
 {
     "Cameraman": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://116992127601429",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Max": 8,
@@ -40,7 +40,7 @@
     },
     "Speakerman": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://131682008927657",
         "Rarity": "Uncommon",
         "PlacePrice": 500,
         "Max": 3,
