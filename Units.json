@@ -1,5 +1,5 @@
 {
-    "Freddy": {
+    "Cameraman": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
@@ -38,9 +38,9 @@
             }
         ]
     },
-    "Chica": {
+    "Speakerman": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16620303027",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
         "PlacePrice": 500,
         "Max": 3,
